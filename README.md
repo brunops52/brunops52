@@ -22,9 +22,9 @@ Sou um estudante de Engenharia de Software apaixonado por desenvolvimento web. A
   <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 </div>
 
-##  Status do github :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunops52)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunops52&layout=compact)
+##  Status do github 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunops52&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunops52&layout=compact&theme=dracula)
 
 ## 🌐 Entre em contato
 
