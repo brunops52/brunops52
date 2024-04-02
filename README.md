@@ -23,7 +23,7 @@ Sou um estudante de Engenharia de Software apaixonado por desenvolvimento web. A
 </div>
 
 ##  Status do Github 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunops52&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![brunops52 GitHub stats](https://github-readme-stats.vercel.app/api?username=brunops52&theme=dracula)](https://github.com/brunops52/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunops52&layout=compact&theme=dracula)
 
 ## 🌐 Entre em contato
