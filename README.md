@@ -24,7 +24,7 @@ Sou um estudante de Engenharia de Software apaixonado por desenvolvimento web. A
 
 ##  Status do github :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunops52)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunops52&layout=compact)
 
 ## 🌐 Entre em contato
 
